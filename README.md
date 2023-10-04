@@ -1,6 +1,6 @@
 # GitHub_one
 Example of repository
-##Como hacer un asado
+##
 1. Consegui la leña
 2. Deja la leña bien amontonada en la parrilla con espacios para que el fuego respire y pueda prender bien
 3. Prende una punta de un papel con fuego y anda prendiendo diferentes lugares de la leña que tengan respiracion
